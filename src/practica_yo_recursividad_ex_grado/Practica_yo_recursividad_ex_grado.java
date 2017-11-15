@@ -16,6 +16,8 @@ public class Practica_yo_recursividad_ex_grado {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Recursividad r;
+        System.out.println(Recursividad.suma(156));
     }
     
 }
